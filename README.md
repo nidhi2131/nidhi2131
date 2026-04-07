@@ -2,9 +2,9 @@
 
 <!-- Animated header banner -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:7c3aed,50:a855f7,100:ec4899&height=200&section=header&text=Nidhi%20D%20Trivedi&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20ML%20Engineer%20in%20Making&descSize=17&descAlignY=58&descColor=e9d5ff" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:a855f7,50:7c3aed,100:ec4899&height=200&section=header&text=Nidhi%20D%20Trivedi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20ML%20Engineer%20in%20Making&descSize=17&descAlignY=58&descColor=ffffff" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:7c3aed,50:a855f7,100:ec4899&height=200&section=header&text=Nidhi%20D%20Trivedi&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20ML%20Engineer%20in%20Making&descSize=17&descAlignY=58&descColor=e9d5ff" alt="header" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=220&section=header&text=Nidhi%20D%20Trivedi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20ML%20Engineer%20in%20Making&descSize=17&descAlignY=58&descColor=e9d5ff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=a855f7&height=220&section=header&text=Nidhi%20D%20Trivedi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20ML%20Engineer%20in%20Making&descSize=17&descAlignY=58&descColor=ffffff" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=220&section=header&text=Nidhi%20D%20Trivedi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20ML%20Engineer%20in%20Making&descSize=17&descAlignY=58&descColor=e9d5ff" alt="header" />
 </picture>
 
 </div>
@@ -25,11 +25,11 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=nidhi2131&color=7c3aed&style=flat-square&label=Profile+Views)
+<img src="https://komarev.com/ghpvc/?username=nidhi2131&color=7c3aed&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 &nbsp;&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/nidhi2131?style=flat-square&color=a855f7&label=Followers)
+<img src="https://img.shields.io/github/followers/nidhi2131?style=for-the-badge&color=a855f7&labelColor=7c3aed&label=Followers&logo=github&logoColor=white" alt="GitHub followers" />
 &nbsp;&nbsp;
-![GitHub User's stars](https://img.shields.io/github/stars/nidhi2131?style=flat-square&color=ec4899&label=Total+Stars)
+<img src="https://img.shields.io/github/stars/nidhi2131?style=for-the-badge&color=ec4899&labelColor=a855f7&label=Total+Stars&logo=github&logoColor=white" alt="GitHub stars" />
 
 </div>
 
