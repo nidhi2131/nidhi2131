@@ -1,13 +1,23 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:7c3aed,50:a855f7,100:ec4899&height=200&section=header&text=Nidhi%20D%20Trivedi&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20ML%20Engineer%20in%20Making&descSize=17&descAlignY=58&descColor=e9d5ff" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:7c3aed,50:a855f7,100:ec4899&height=200&section=header&text=Nidhi%20D%20Trivedi&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20ML%20Engineer%20in%20Making&descSize=17&descAlignY=58&descColor=e9d5ff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:a855f7,50:7c3aed,100:ec4899&height=200&section=header&text=Nidhi%20D%20Trivedi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20ML%20Engineer%20in%20Making&descSize=17&descAlignY=58&descColor=ffffff" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:7c3aed,50:a855f7,100:ec4899&height=200&section=header&text=Nidhi%20D%20Trivedi&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20ML%20Engineer%20in%20Making&descSize=17&descAlignY=58&descColor=e9d5ff" alt="header" />
+</picture>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&random=false&width=680&height=50&lines=Hey+there!+I'm+Nidhi+%F0%9F%91%8B;IT+Student+%40+Atmiya+University%2C+Rajkot;I+turn+raw+data+into+real+insights+%F0%9F%93%8A;LSTM+%7C+ARIMA+%7C+Streamlit+%7C+Python+%F0%9F%90%8D;Currently+on+my+ML+journey+%F0%9F%9A%80)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&random=false&width=680&height=50&lines=Hey+there!+I'm+Nidhi+%F0%9F%91%8B;IT+Student+%40+Atmiya+University%2C+Rajkot;I+turn+raw+data+into+real+insights+%F0%9F%93%8A;LSTM+%7C+ARIMA+%7C+Streamlit+%7C+Python+%F0%9F%90%8D;Currently+on+my+ML+journey+%F0%9F%9A%80" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&random=false&width=680&height=50&lines=Hey+there!+I'm+Nidhi+%F0%9F%91%8B;IT+Student+%40+Atmiya+University%2C+Rajkot;I+turn+raw+data+into+real+insights+%F0%9F%93%8A;LSTM+%7C+ARIMA+%7C+Streamlit+%7C+Python+%F0%9F%90%8D;Currently+on+my+ML+journey+%F0%9F%9A%80" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&random=false&width=680&height=50&lines=Hey+there!+I'm+Nidhi+%F0%9F%91%8B;IT+Student+%40+Atmiya+University%2C+Rajkot;I+turn+raw+data+into+real+insights+%F0%9F%93%8A;LSTM+%7C+ARIMA+%7C+Streamlit+%7C+Python+%F0%9F%90%8D;Currently+on+my+ML+journey+%F0%9F%9A%80" alt="Typing SVG" />
+  </picture>
+</a>
 
 </div>
 
@@ -122,7 +132,11 @@ SQL              ████████████████░░░░░
 ## 🚀 Featured Project
 
 <a href="https://github.com/nidhi2131/stock-price-forecasting">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nidhi2131&repo=stock-price-forecasting&theme=tokyonight&hide_border=true&border_radius=12&title_color=a855f7&icon_color=ec4899&text_color=c4b5fd&bg_color=0d1117" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=nidhi2131&repo=stock-price-forecasting&theme=tokyonight&hide_border=true&border_radius=12&title_color=a855f7&icon_color=ec4899&text_color=c4b5fd&bg_color=0d1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=nidhi2131&repo=stock-price-forecasting&hide_border=true&border_radius=12&title_color=7c3aed&icon_color=ec4899&text_color=333333&bg_color=ffffff" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nidhi2131&repo=stock-price-forecasting&theme=tokyonight&hide_border=true&border_radius=12&title_color=a855f7&icon_color=ec4899&text_color=c4b5fd&bg_color=0d1117" alt="Stock Price Forecasting Project" />
+  </picture>
 </a>
 
 <br/><br/>
@@ -138,15 +152,27 @@ SQL              ████████████████░░░░░
 
 <div align="center">
 
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=nidhi2131&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&title_color=a855f7&icon_color=ec4899&text_color=c4b5fd&bg_color=0d1117&include_all_commits=true&count_private=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nidhi2131&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&title_color=a855f7&icon_color=ec4899&text_color=c4b5fd&bg_color=0d1117&include_all_commits=true&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=nidhi2131&show_icons=true&hide_border=true&border_radius=12&title_color=7c3aed&icon_color=ec4899&text_color=333333&bg_color=ffffff&include_all_commits=true&count_private=true" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=nidhi2131&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&title_color=a855f7&icon_color=ec4899&text_color=c4b5fd&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</picture>
 &nbsp;
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhi2131&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&title_color=a855f7&text_color=c4b5fd&bg_color=0d1117" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhi2131&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&title_color=a855f7&text_color=c4b5fd&bg_color=0d1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhi2131&layout=compact&hide_border=true&border_radius=12&title_color=7c3aed&text_color=333333&bg_color=ffffff" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhi2131&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&title_color=a855f7&text_color=c4b5fd&bg_color=0d1117" alt="Top Languages" />
+</picture>
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=nidhi2131&theme=tokyonight&hide_border=true&border_radius=12&ring=a855f7&fire=ec4899&currStreakLabel=a855f7&sideLabels=c4b5fd&dates=7c3aed" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=nidhi2131&theme=tokyonight&hide_border=true&border_radius=12&ring=a855f7&fire=ec4899&currStreakLabel=a855f7&sideLabels=c4b5fd&dates=7c3aed" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=nidhi2131&hide_border=true&border_radius=12&ring=7c3aed&fire=ec4899&currStreakLabel=7c3aed&sideLabels=333333&dates=7c3aed&bg_color=ffffff&title_color=7c3aed" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=nidhi2131&theme=tokyonight&hide_border=true&border_radius=12&ring=a855f7&fire=ec4899&currStreakLabel=a855f7&sideLabels=c4b5fd&dates=7c3aed" alt="GitHub Streak" />
+</picture>
 
 </div>
 
@@ -168,7 +194,11 @@ SQL              ████████████████░░░░░
 
 ## 📅 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhi2131&theme=tokyo-night&hide_border=true&radius=8&area=true&area_color=7c3aed&line=a855f7&point=ec4899" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nidhi2131&theme=tokyo-night&hide_border=true&radius=8&area=true&area_color=7c3aed&line=a855f7&point=ec4899&bg_color=0d1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nidhi2131&hide_border=true&radius=8&area=true&area_color=e9d5ff&line=7c3aed&point=ec4899&bg_color=ffffff&color=333333&title_color=7c3aed" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhi2131&theme=tokyo-night&hide_border=true&radius=8&area=true&area_color=7c3aed&line=a855f7&point=ec4899" width="100%" alt="Contribution Graph" />
+</picture>
 
 ---
 
@@ -198,7 +228,11 @@ SQL              ████████████████░░░░░
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:a855f7,100:ec4899&height=130&section=footer&animation=fadeIn" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:a855f7,100:ec4899&height=130&section=footer&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:7c3aed,100:ec4899&height=130&section=footer&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:a855f7,100:ec4899&height=130&section=footer&animation=fadeIn" alt="footer" />
+</picture>
 
 ---
 
